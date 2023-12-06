@@ -1,0 +1,21 @@
+
+img{
+  width: 1000px;
+  height: 500px;
+}
+.p{
+  font-size: xx-large;
+  color: whitesmoke;
+
+}
+.p2{
+  color: whitesmoke;
+}
+.btns{
+  display: flex;
+  gap: 3rem;
+  color: whitesmoke;
+}
+.h2{
+  color: whitesmoke;
+}
